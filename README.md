@@ -3,7 +3,7 @@
 ## HOW TO USE THIS LIBRARY
 ---
 
-iclude library
+import library
     
     from mpl3115a2 import MPL3115A2
 
