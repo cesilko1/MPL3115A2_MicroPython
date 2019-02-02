@@ -1,9 +1,11 @@
-# This is a ESP32 Micropython library for the MPL3115A2 Altimeter
+# This is a Micropython library for the MPL3115A2 Altimeter
 
 ## HOW TO USE THIS LIBRARY
 ---
 
-On the ESP32 pin 21 is SDA and pin 22 is SCL
+iclude library
+    
+    from mpl3115a2 import MPL3115A2
 
 Create the MPL object in altitude mode (mode 0)
 
